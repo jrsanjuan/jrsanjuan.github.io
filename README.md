@@ -1,3 +1,1 @@
-# jrsanjuan.github.io
-
-Personal portfolio
+# Personal portfolio
